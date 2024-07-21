@@ -20,7 +20,7 @@ Proyectos:
 
 ![Proyectos](imagenes/readme/screenshot3.png)
 
-Testimonios:
+Experiencia laboral:
 
 ![Testimonios](imagenes/readme/screenshot4.png)
 
